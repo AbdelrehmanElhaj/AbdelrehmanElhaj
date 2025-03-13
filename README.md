@@ -53,7 +53,7 @@ I am passionate about **solving complex challenges, implementing efficient softw
 ## 📬 Connect With Me  
 
 📧 **Email**: [hdr333@gmail.com](mailto:hdr333@gmail.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
+💼 **LinkedIn**: [linkedin.com/in/Abdelrehman Elhaj](https://www.linkedin.com/in/abdelrehman-elhaj-972a49257/)  
 🚀 **GitHub**: [github.com/AbdelrehmanElhaj](https://github.com/AbdelrehmanElhaj)  
 
 ---
