@@ -6,6 +6,8 @@ I am a **Senior Backend Developer** with over **10 years** of experience in desi
 I am passionate about **solving complex challenges, implementing efficient software architectures, and mentoring cross-functional teams** to foster innovation and growth.  
 
 ---
+- 💬 Ask me about **Spring, Java, Docker, Kubernetes, AWS, Angular, Testing, ....**
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
